@@ -1,0 +1,51 @@
+2022-01-18 19:56:16,494 [MainThread  ] [INFO ]  New iot:sensor:battery with id: 5003c4dd-7890-11ec-8f05-c15432be9ccf Resource Created ! Battery level: 52.152802867241455
+2022-01-18 19:56:21,500 [MainThread  ] [INFO ]  Start period Update with period: 5 s
+2022-01-18 19:56:21,502 [MainThread  ] [INFO ]  Listener <class 'resources.ResourceDataListener.ResourceDataListener'>
+2022-01-18 19:56:21,508 [MainThread  ] [INFO ]  Listener <class 'resources.ResourceDataListener.ResourceDataListener'>
+2022-01-18 19:56:22,505 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 51.542010992694216
+2022-01-18 19:56:23,508 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 50.65437053003365
+2022-01-18 19:56:24,511 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 50.00050828533035
+2022-01-18 19:56:25,515 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 48.914451068474605
+2022-01-18 19:56:26,518 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 48.523231739576154
+2022-01-18 19:56:27,533 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 47.993682539179495
+2022-01-18 19:56:28,536 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 47.26458492761281
+2022-01-18 19:56:29,539 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 46.70142744634895
+2022-01-18 19:56:30,541 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 46.52665955000571
+2022-01-18 19:56:31,544 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 46.004420649007635
+2022-01-18 19:56:32,559 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 45.16774980143689
+2022-01-18 19:56:33,562 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 44.81204695439583
+2022-01-18 19:56:34,565 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 44.27625153073776
+2022-01-18 19:56:35,567 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 44.015767101012564
+2022-01-18 19:56:36,570 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 43.401459627377875
+2022-01-18 19:56:37,573 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 42.73013312974832
+2022-01-18 19:56:38,576 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 42.52525707484315
+2022-01-18 19:56:39,580 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 41.61743453299014
+2022-01-18 19:56:40,583 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 41.10877201571319
+2022-01-18 19:56:41,587 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 40.05856426835326
+2022-01-18 19:56:42,590 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 39.340926619020195
+2022-01-18 19:56:43,593 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 38.998753482333456
+2022-01-18 19:56:44,596 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 38.70332767702505
+2022-01-18 19:56:45,599 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 38.34200610923147
+2022-01-18 19:56:46,602 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 37.39413180773259
+2022-01-18 19:56:47,606 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 36.36775873477938
+2022-01-18 19:56:48,609 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 35.48539765778829
+2022-01-18 19:56:49,624 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 35.19823346021211
+2022-01-18 19:56:50,627 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 34.326949983015645
+2022-01-18 19:56:51,630 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 33.239359964147766
+2022-01-18 19:56:52,632 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 32.88816769407292
+2022-01-18 19:56:53,635 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 32.64380662853768
+2022-01-18 19:56:54,639 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 31.625683848313138
+2022-01-18 19:56:55,642 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 30.930591674644422
+2022-01-18 19:56:56,645 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 30.476571180263107
+2022-01-18 19:56:57,648 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 30.073879085355603
+2022-01-18 19:56:58,651 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 29.893127861196675
+2022-01-18 19:56:59,654 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 29.395400862045467
+2022-01-18 19:57:00,658 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 29.175299297643132
+2022-01-18 19:57:01,660 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 28.408050281843636
+2022-01-18 19:57:02,664 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 27.919909008591173
+2022-01-18 19:57:03,667 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 27.50263541388639
+2022-01-18 19:57:04,670 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 26.552950928976436
+2022-01-18 19:57:05,674 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 26.08081810383987
+2022-01-18 19:57:06,677 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 25.687902981170055
+2022-01-18 19:57:07,678 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 24.941445775209893
+2022-01-18 19:57:08,694 [Thread-1    ] [INFO ]  Device: 5003c4dd-7890-11ec-8f05-c15432be9ccf -> New Battery Level Received 24.465947593412096
