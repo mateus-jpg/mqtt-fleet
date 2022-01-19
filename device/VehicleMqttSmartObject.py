@@ -52,7 +52,7 @@ class VehicleMqttSmartObject:
             self.publishTelemetryData(f"{self.BASIC_TOPIC}/"
                                       f"{self.vehicleId}/"
                                       f"{self.TELEMETRY_TOPIC}/"
-                                      f"{resource.deviceType}",
+                                      f"{resource.deviceType.split(':')[-1]}",
                                       TelemetryMessage(resource.deviceType, updatedValue))
         except Exception as e:
             self.logger.error(f"Error CallBack _onDataChanged | Msg: {str(e)}")
@@ -62,7 +62,7 @@ class VehicleMqttSmartObject:
             self.publishTelemetryData(f"{self.BASIC_TOPIC}/"
                                       f"{self.vehicleId}/"
                                       f"{self.TELEMETRY_TOPIC}/"
-                                      f"{resource.deviceType}",
+                                      f"{resource.deviceType.split(':')[-1]}",
                                       TelemetryMessage(resource.deviceType, updatedValue))
         except Exception as e:
             self.logger.error(f"Error CallBack _onDataChanged | Msg: {str(e)}")
@@ -89,7 +89,7 @@ class VehicleMqttSmartObject:
 
     def publishTelemetryData(self, topic, telemetryMessage: TelemetryMessage):
         self.logger.info(f"Sending to topic {topic} data: {telemetryMessage} ")
-        """"
+
         if self.mqttClient is not None and telemetryMessage is not None and topic is not None:
             messagePayload = str.encode(telemetryMessage.writeValueAsString())
             mqttMessage = mqtt.MQTTMessage(bytes(messagePayload))
@@ -97,4 +97,3 @@ class VehicleMqttSmartObject:
             self.mqttClient.publish(topic, mqttMessage)
         else:
             self.logger.error("Error: Topic or Msg = None or MqttClient is not Connected")
-        """
