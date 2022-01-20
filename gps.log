@@ -299,3 +299,384 @@
 2022-01-19 19:22:28,417 [Thread-1    ] [INFO ]  Device: bc38381c-7954-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31222893333333 Latitude: 44.77215011666667 Altitude: 76.30160140991211 - provider location_provider_local
 2022-01-19 19:22:29,420 [Thread-1    ] [INFO ]  Device: bc38381c-7954-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31172038333333 Latitude: 44.77225815000003 Altitude: 76.30109786987305 - provider location_provider_local
 2022-01-19 19:22:30,423 [Thread-1    ] [INFO ]  Device: bc38381c-7954-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31146928333333 Latitude: 44.77231043333333 Altitude: 77.30086135864258 - provider location_provider_local
+2022-01-19 23:02:15,969 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-19 23:02:15,970 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 769739ba-7973-11ec-8f05-c15432be9ccfResource Created ! 
+2022-01-19 23:02:15,970 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-19 23:02:16,971 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-19 23:02:16,971 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-19 23:02:17,973 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.3157425 Latitude: 44.77135166666667 Altitude: 76.30501174926758 - provider location_provider_local
+2022-01-19 23:02:18,974 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.315263 Latitude: 44.77149896666667 Altitude: 76.30454635620117 - provider location_provider_local
+2022-01-19 23:02:19,976 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31475911666667 Latitude: 44.77161904999999 Altitude: 76.30404663085938 - provider location_provider_local
+2022-01-19 23:02:20,978 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31450383333333 Latitude: 44.77167766666668 Altitude: 76.30380630493164 - provider location_provider_local
+2022-01-19 23:02:21,979 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.3139963 Latitude: 44.77178606666666 Altitude: 76.30330276489258 - provider location_provider_local
+2022-01-19 23:02:22,982 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31348566666667 Latitude: 44.77188525 Altitude: 76.30282592773438 - provider location_provider_local
+2022-01-19 23:02:23,986 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31323288333333 Latitude: 44.7719358 Altitude: 76.30256271362305 - provider location_provider_local
+2022-01-19 23:02:24,989 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31273196666667 Latitude: 44.77204188333334 Altitude: 76.30208206176758 - provider location_provider_local
+2022-01-19 23:02:25,994 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31222893333333 Latitude: 44.77215011666667 Altitude: 76.30160140991211 - provider location_provider_local
+2022-01-19 23:02:26,998 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31172038333333 Latitude: 44.77225815000003 Altitude: 76.30109786987305 - provider location_provider_local
+2022-01-19 23:02:28,014 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31146928333333 Latitude: 44.77231043333333 Altitude: 77.30086135864258 - provider location_provider_local
+2022-01-19 23:02:29,018 [Thread-1    ] [INFO ]  Device: 769739ba-7973-11ec-8f05-c15432be9ccf -> New Value Received Longitude: 10.31121928333333 Latitude: 44.77236441666667 Altitude: 77.30062103271484 - provider location_provider_local
+2022-01-20 14:50:56,998 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 14:50:56,998 [MainThread  ] [INFO ]  New iot:sensor:gps with id: fe280a42-79f7-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 14:50:56,999 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 14:50:58,000 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 14:50:58,001 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 14:50:59,003 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758provider = location_provider_local}
+2022-01-20 14:51:00,005 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117provider = location_provider_local}
+2022-01-20 14:51:01,007 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938provider = location_provider_local}
+2022-01-20 14:51:02,009 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164provider = location_provider_local}
+2022-01-20 14:51:03,010 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258provider = location_provider_local}
+2022-01-20 14:51:04,013 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438provider = location_provider_local}
+2022-01-20 14:51:05,015 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305provider = location_provider_local}
+2022-01-20 14:51:06,017 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758provider = location_provider_local}
+2022-01-20 14:51:07,021 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211provider = location_provider_local}
+2022-01-20 14:51:08,024 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305provider = location_provider_local}
+2022-01-20 14:51:09,040 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258provider = location_provider_local}
+2022-01-20 14:51:10,045 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484provider = location_provider_local}
+2022-01-20 14:51:11,047 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711provider = location_provider_local}
+2022-01-20 14:51:12,050 [Thread-1    ] [INFO ]  Device: fe280a42-79f7-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938provider = location_provider_local}
+2022-01-20 16:28:44,489 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:28:44,490 [MainThread  ] [INFO ]  New iot:sensor:gps with id: a77648d6-7a05-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:28:44,490 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:28:45,491 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:28:45,493 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:28:46,494 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77135166666667,
+        "longitude": 10.3157425,
+        "altitude": 76.30501174926758,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:47,496 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77149896666667,
+        "longitude": 10.315263,
+        "altitude": 76.30454635620117,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:48,499 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77161904999999,
+        "longitude": 10.31475911666667,
+        "altitude": 76.30404663085938,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:49,501 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77167766666668,
+        "longitude": 10.31450383333333,
+        "altitude": 76.30380630493164,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:50,506 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77178606666666,
+        "longitude": 10.3139963,
+        "altitude": 76.30330276489258,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:51,510 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77188525,
+        "longitude": 10.31348566666667,
+        "altitude": 76.30282592773438,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:52,513 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.7719358,
+        "longitude": 10.31323288333333,
+        "altitude": 76.30256271362305,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:53,516 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77204188333334,
+        "longitude": 10.31273196666667,
+        "altitude": 76.30208206176758,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:54,519 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77215011666667,
+        "longitude": 10.31222893333333,
+        "altitude": 76.30160140991211,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:28:55,522 [Thread-1    ] [INFO ]  Device: a77648d6-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received {
+    "GpsLocationDescriptor": {
+        "latitude": 44.77225815000003,
+        "longitude": 10.31172038333333,
+        "altitude": 76.30109786987305,
+        "provider": "location_provider_local"
+    }
+}
+2022-01-20 16:30:54,531 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:30:54,531 [MainThread  ] [INFO ]  New iot:sensor:gps with id: f4fa0700-7a05-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:30:54,531 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:30:55,533 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:30:55,534 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:30:56,535 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:30:57,537 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:30:58,538 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:30:59,540 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:31:00,541 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:31:01,556 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local}
+2022-01-20 16:31:02,560 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local}
+2022-01-20 16:31:03,565 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local}
+2022-01-20 16:31:04,569 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local}
+2022-01-20 16:31:05,573 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local}
+2022-01-20 16:31:06,576 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local}
+2022-01-20 16:31:07,580 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local}
+2022-01-20 16:31:08,584 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local}
+2022-01-20 16:31:09,588 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local}
+2022-01-20 16:31:10,592 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77256238333333,longitude = 10.31023271666667,elevation = 77.2996597290039,provider = location_provider_local}
+2022-01-20 16:31:11,595 [Thread-1    ] [INFO ]  Device: f4fa0700-7a05-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77267423333334,longitude = 10.30975065,elevation = 78.2991943359375,provider = location_provider_local}
+2022-01-20 16:31:46,403 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:31:46,403 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 13e52e74-7a06-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:31:46,403 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:31:47,405 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:31:47,406 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:31:48,407 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:31:49,409 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:31:50,410 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:31:51,411 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:31:52,414 [Thread-2    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:31:52,415 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local}
+2022-01-20 16:31:53,447 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local}
+2022-01-20 16:31:54,450 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local}
+2022-01-20 16:31:55,454 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local}
+2022-01-20 16:31:56,458 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local}
+2022-01-20 16:31:57,471 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local}
+2022-01-20 16:31:58,475 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local}
+2022-01-20 16:31:59,478 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local}
+2022-01-20 16:32:00,479 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local}
+2022-01-20 16:32:01,482 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77256238333333,longitude = 10.31023271666667,elevation = 77.2996597290039,provider = location_provider_local}
+2022-01-20 16:32:02,485 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77267423333334,longitude = 10.30975065,elevation = 78.2991943359375,provider = location_provider_local}
+2022-01-20 16:32:03,489 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77281955,longitude = 10.30928393333333,elevation = 78.2987289428711,provider = location_provider_local}
+2022-01-20 16:32:04,493 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77297631666666,longitude = 10.30882556666667,elevation = 79.29828643798828,provider = location_provider_local}
+2022-01-20 16:32:05,497 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77305463333333,longitude = 10.30859655,elevation = 79.29806137084961,provider = location_provider_local}
+2022-01-20 16:32:06,500 [Thread-1    ] [INFO ]  Device: 13e52e74-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.773146,longitude = 10.30837808333333,elevation = 79.2978553771973,provider = location_provider_local}
+2022-01-20 16:37:29,787 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:37:29,787 [MainThread  ] [INFO ]  New iot:sensor:gps with id: e09180d0-7a06-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:37:29,787 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:37:30,789 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:37:30,790 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:37:31,791 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:37:32,793 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:37:33,795 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:37:34,797 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:37:35,802 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:37:36,805 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local}
+2022-01-20 16:37:37,808 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local}
+2022-01-20 16:37:38,812 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local}
+2022-01-20 16:37:39,815 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local}
+2022-01-20 16:37:40,832 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local}
+2022-01-20 16:37:41,836 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local}
+2022-01-20 16:37:42,840 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local}
+2022-01-20 16:37:43,843 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local}
+2022-01-20 16:37:44,847 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local}
+2022-01-20 16:37:45,851 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77256238333333,longitude = 10.31023271666667,elevation = 77.2996597290039,provider = location_provider_local}
+2022-01-20 16:37:46,854 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77267423333334,longitude = 10.30975065,elevation = 78.2991943359375,provider = location_provider_local}
+2022-01-20 16:37:47,855 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77281955,longitude = 10.30928393333333,elevation = 78.2987289428711,provider = location_provider_local}
+2022-01-20 16:37:48,859 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77297631666666,longitude = 10.30882556666667,elevation = 79.29828643798828,provider = location_provider_local}
+2022-01-20 16:37:49,861 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77305463333333,longitude = 10.30859655,elevation = 79.29806137084961,provider = location_provider_local}
+2022-01-20 16:37:50,864 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.773146,longitude = 10.30837808333333,elevation = 79.2978553771973,provider = location_provider_local}
+2022-01-20 16:37:51,868 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77323804999998,longitude = 10.30816078333333,elevation = 79.29765701293945,provider = location_provider_local}
+2022-01-20 16:37:52,872 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77347378333334,longitude = 10.30777436666667,elevation = 79.29726028442383,provider = location_provider_local}
+2022-01-20 16:37:53,887 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77372680000002,longitude = 10.3074101,elevation = 79.29690551757812,provider = location_provider_local}
+2022-01-20 16:37:54,888 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77402471666666,longitude = 10.30709481666667,elevation = 80.29660415649414,provider = location_provider_local}
+2022-01-20 16:37:55,891 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77418048333334,longitude = 10.30693596666667,elevation = 80.29643630981445,provider = location_provider_local}
+2022-01-20 16:37:56,894 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77434206666667,longitude = 10.3067854,elevation = 80.29628372192383,provider = location_provider_local}
+2022-01-20 16:37:57,897 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77467005,longitude = 10.30647898333333,elevation = 80.29598617553711,provider = location_provider_local}
+2022-01-20 16:37:58,899 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77500673333334,longitude = 10.30617643333333,elevation = 80.29568099975586,provider = location_provider_local}
+2022-01-20 16:37:59,903 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77517681666667,longitude = 10.30602915,elevation = 81.29554748535156,provider = location_provider_local}
+2022-01-20 16:38:00,907 [Thread-1    ] [INFO ]  Device: e09180d0-7a06-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77551625,longitude = 10.30573628333333,elevation = 81.29524612426758,provider = location_provider_local}
+2022-01-20 16:39:47,654 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:39:47,654 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 32be960e-7a07-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:39:47,654 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:39:48,655 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:39:48,657 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:39:49,659 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:39:50,661 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:39:51,663 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:39:52,665 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:39:53,667 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:39:54,669 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local}
+2022-01-20 16:39:55,673 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local}
+2022-01-20 16:39:56,677 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local}
+2022-01-20 16:39:57,681 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local}
+2022-01-20 16:39:58,684 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local}
+2022-01-20 16:39:59,688 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local}
+2022-01-20 16:40:00,692 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local}
+2022-01-20 16:40:01,695 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local}
+2022-01-20 16:40:02,711 [Thread-1    ] [INFO ]  Device: 32be960e-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local}
+2022-01-20 16:40:06,140 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:40:06,140 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 3dbed9ce-7a07-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:40:06,140 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:40:07,142 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:40:07,147 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:40:08,150 [Thread-6    ] [INFO ]  Device: 3dbed9ce-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:40:09,152 [Thread-6    ] [INFO ]  Device: 3dbed9ce-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:40:10,154 [Thread-6    ] [INFO ]  Device: 3dbed9ce-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:40:11,157 [Thread-6    ] [INFO ]  Device: 3dbed9ce-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:40:12,160 [Thread-6    ] [INFO ]  Device: 3dbed9ce-7a07-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:45:46,902 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:45:46,902 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 08deea22-7a08-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:45:46,902 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:45:47,903 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:45:47,904 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:45:48,906 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local
+2022-01-20 16:45:49,908 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local
+2022-01-20 16:45:50,910 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local
+2022-01-20 16:45:51,912 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local
+2022-01-20 16:45:52,914 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local
+2022-01-20 16:45:53,917 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local
+2022-01-20 16:45:54,921 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local
+2022-01-20 16:45:55,925 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local
+2022-01-20 16:45:56,929 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local
+2022-01-20 16:45:57,932 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local
+2022-01-20 16:45:58,934 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local
+2022-01-20 16:45:59,935 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local
+2022-01-20 16:46:00,948 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local
+2022-01-20 16:46:01,950 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local
+2022-01-20 16:46:02,951 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77256238333333,longitude = 10.31023271666667,elevation = 77.2996597290039,provider = location_provider_local
+2022-01-20 16:46:03,953 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77267423333334,longitude = 10.30975065,elevation = 78.2991943359375,provider = location_provider_local
+2022-01-20 16:46:04,955 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77281955,longitude = 10.30928393333333,elevation = 78.2987289428711,provider = location_provider_local
+2022-01-20 16:46:05,957 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77297631666666,longitude = 10.30882556666667,elevation = 79.29828643798828,provider = location_provider_local
+2022-01-20 16:46:06,958 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77305463333333,longitude = 10.30859655,elevation = 79.29806137084961,provider = location_provider_local
+2022-01-20 16:46:07,959 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.773146,longitude = 10.30837808333333,elevation = 79.2978553771973,provider = location_provider_local
+2022-01-20 16:46:08,961 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77323804999998,longitude = 10.30816078333333,elevation = 79.29765701293945,provider = location_provider_local
+2022-01-20 16:46:09,963 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77347378333334,longitude = 10.30777436666667,elevation = 79.29726028442383,provider = location_provider_local
+2022-01-20 16:46:10,965 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77372680000002,longitude = 10.3074101,elevation = 79.29690551757812,provider = location_provider_local
+2022-01-20 16:46:11,968 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77402471666666,longitude = 10.30709481666667,elevation = 80.29660415649414,provider = location_provider_local
+2022-01-20 16:46:12,971 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77418048333334,longitude = 10.30693596666667,elevation = 80.29643630981445,provider = location_provider_local
+2022-01-20 16:46:13,972 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77434206666667,longitude = 10.3067854,elevation = 80.29628372192383,provider = location_provider_local
+2022-01-20 16:46:14,974 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77467005,longitude = 10.30647898333333,elevation = 80.29598617553711,provider = location_provider_local
+2022-01-20 16:46:15,976 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77500673333334,longitude = 10.30617643333333,elevation = 80.29568099975586,provider = location_provider_local
+2022-01-20 16:46:16,978 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77517681666667,longitude = 10.30602915,elevation = 81.29554748535156,provider = location_provider_local
+2022-01-20 16:46:17,979 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77551625,longitude = 10.30573628333333,elevation = 81.29524612426758,provider = location_provider_local
+2022-01-20 16:46:18,982 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77584863333333,longitude = 10.30544073333333,elevation = 81.29496383666992,provider = location_provider_local
+2022-01-20 16:46:19,983 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.7760157,longitude = 10.30529261666667,elevation = 81.29481506347656,provider = location_provider_local
+2022-01-20 16:46:20,985 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77619276666666,longitude = 10.3051348,elevation = 81.29466247558594,provider = location_provider_local
+2022-01-20 16:46:21,998 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77654916666667,longitude = 10.30481866666667,elevation = 81.29433822631836,provider = location_provider_local
+2022-01-20 16:46:23,000 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77691069999999,longitude = 10.30450391666667,elevation = 81.29403686523438,provider = location_provider_local
+2022-01-20 16:46:24,001 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77725791666666,longitude = 10.30419635,elevation = 81.29373550415039,provider = location_provider_local
+2022-01-20 16:46:25,004 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77757718333334,longitude = 10.3038888,elevation = 81.29343795776367,provider = location_provider_local
+2022-01-20 16:46:26,006 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77786348333333,longitude = 10.30359061666666,elevation = 81.29313278198242,provider = location_provider_local
+2022-01-20 16:46:27,020 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.7781349,longitude = 10.30329111666667,elevation = 81.2928352355957,provider = location_provider_local
+2022-01-20 16:46:28,023 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77839233333334,longitude = 10.302984,elevation = 81.29253387451172,provider = location_provider_local
+2022-01-20 16:46:29,025 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77865033333334,longitude = 10.30269273333333,elevation = 81.29225158691406,provider = location_provider_local
+2022-01-20 16:46:30,029 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77877795000001,longitude = 10.30254433333333,elevation = 81.2921028137207,provider = location_provider_local
+2022-01-20 16:46:31,032 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77900851666667,longitude = 10.30222806666667,elevation = 81.29178237915039,provider = location_provider_local
+2022-01-20 16:46:32,036 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77922906666667,longitude = 10.30190313333333,elevation = 81.29146575927734,provider = location_provider_local
+2022-01-20 16:46:33,038 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77943108333334,longitude = 10.30155143333333,elevation = 81.29113006591797,provider = location_provider_local
+2022-01-20 16:46:34,041 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77951270000001,longitude = 10.30135081666667,elevation = 81.29092788696289,provider = location_provider_local
+2022-01-20 16:46:35,044 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77964088333334,longitude = 10.30092163333333,elevation = 82.2905158996582,provider = location_provider_local
+2022-01-20 16:46:36,047 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77969023333333,longitude = 10.30069526666667,elevation = 82.2902946472168,provider = location_provider_local
+2022-01-20 16:46:37,051 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77979860000001,longitude = 10.30024321666667,elevation = 82.28984832763672,provider = location_provider_local
+2022-01-20 16:46:38,054 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77984691666667,longitude = 10.30000921666667,elevation = 82.28963088989258,provider = location_provider_local
+2022-01-20 16:46:39,057 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77989080000001,longitude = 10.29977246666667,elevation = 82.2894058227539,provider = location_provider_local
+2022-01-20 16:46:40,059 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77996073333334,longitude = 10.2992812,elevation = 82.2889289855957,provider = location_provider_local
+2022-01-20 16:46:41,061 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78002679999998,longitude = 10.29878111666667,elevation = 83.2884483337402,provider = location_provider_local
+2022-01-20 16:46:42,064 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78004321666667,longitude = 10.2985058,elevation = 83.28816986083984,provider = location_provider_local
+2022-01-20 16:46:43,068 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78011686666667,longitude = 10.29800221666667,elevation = 83.28768920898438,provider = location_provider_local
+2022-01-20 16:46:44,072 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78013298333333,longitude = 10.29745465,elevation = 83.28715515136719,provider = location_provider_local
+2022-01-20 16:46:45,074 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78014506666666,longitude = 10.29718383333334,elevation = 83.28689956665039,provider = location_provider_local
+2022-01-20 16:46:46,076 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78016268333334,longitude = 10.29691256666667,elevation = 83.28664016723633,provider = location_provider_local
+2022-01-20 16:46:47,080 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78020653333333,longitude = 10.2963746,elevation = 83.28612518310547,provider = location_provider_local
+2022-01-20 16:46:48,082 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78025181666667,longitude = 10.29584,elevation = 83.28560638427734,provider = location_provider_local
+2022-01-20 16:46:49,097 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.7802744,longitude = 10.29557398333333,elevation = 83.28534698486328,provider = location_provider_local
+2022-01-20 16:46:50,099 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78030958333333,longitude = 10.29504558333333,elevation = 84.28483200073242,provider = location_provider_local
+2022-01-20 16:46:51,102 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78034953333334,longitude = 10.29452426666667,elevation = 84.28433609008789,provider = location_provider_local
+2022-01-20 16:46:52,106 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78039531666666,longitude = 10.29400605,elevation = 84.28382110595703,provider = location_provider_local
+2022-01-20 16:46:53,109 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78046266666667,longitude = 10.29349836666667,elevation = 84.2833366394043,provider = location_provider_local
+2022-01-20 16:46:54,124 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78053723333333,longitude = 10.29300306666667,elevation = 84.2828598022461,provider = location_provider_local
+2022-01-20 16:46:55,128 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78066988333334,longitude = 10.29254378333333,elevation = 84.28241348266604,provider = location_provider_local
+2022-01-20 16:46:56,130 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78074355,longitude = 10.29232415,elevation = 84.28219223022461,provider = location_provider_local
+2022-01-20 16:46:57,133 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78088254999998,longitude = 10.29193393333333,elevation = 84.28181838989258,provider = location_provider_local
+2022-01-20 16:46:58,136 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78102688333333,longitude = 10.29153581666667,elevation = 84.28142929077146,provider = location_provider_local
+2022-01-20 16:46:59,151 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78112428333334,longitude = 10.29135261666667,elevation = 84.2812461853027,provider = location_provider_local
+2022-01-20 16:47:00,155 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78121548333335,longitude = 10.29116911666667,elevation = 84.28107833862305,provider = location_provider_local
+2022-01-20 16:47:01,158 [Thread-1    ] [INFO ]  Device: 08deea22-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.78141220000001,longitude = 10.29083578333333,elevation = 85.28074264526367,provider = location_provider_local
+2022-01-20 16:47:09,352 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:47:09,352 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:47:09,352 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:47:10,353 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:47:10,354 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:47:11,355 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local
+2022-01-20 16:47:12,357 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local
+2022-01-20 16:47:13,359 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local
+2022-01-20 16:47:14,361 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local
+2022-01-20 16:47:15,362 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local
+2022-01-20 16:47:16,364 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local
+2022-01-20 16:47:17,368 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local
+2022-01-20 16:47:18,371 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local
+2022-01-20 16:47:19,375 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local
+2022-01-20 16:47:20,378 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local
+2022-01-20 16:47:21,380 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local
+2022-01-20 16:47:22,384 [Thread-1    ] [INFO ]  Device: 3a0401f0-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local
+2022-01-20 16:48:51,087 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:48:51,087 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 76a74be4-7a08-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:48:51,087 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:48:52,089 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:48:52,090 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:48:53,091 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:48:54,093 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:48:55,095 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:48:56,097 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:48:57,102 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:48:58,104 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local}
+2022-01-20 16:48:59,107 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local}
+2022-01-20 16:49:00,110 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local}
+2022-01-20 16:49:01,125 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local}
+2022-01-20 16:49:02,129 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local}
+2022-01-20 16:49:03,131 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local}
+2022-01-20 16:49:04,134 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local}
+2022-01-20 16:49:05,136 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local}
+2022-01-20 16:49:06,152 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local}
+2022-01-20 16:49:07,156 [Thread-1    ] [INFO ]  Device: 76a74be4-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77256238333333,longitude = 10.31023271666667,elevation = 77.2996597290039,provider = location_provider_local}
+2022-01-20 16:49:48,730 [MainThread  ] [INFO ]  GPX File waypoint correctly loaded ! size: 469
+2022-01-20 16:49:48,730 [MainThread  ] [INFO ]  New iot:sensor:gps with id: 9903477e-7a08-11ec-a820-5ff5fbc104a7Resource Created ! 
+2022-01-20 16:49:48,730 [MainThread  ] [INFO ]  Starting point at Lat:44.77127138333334 Long: 10.31597753333334
+2022-01-20 16:49:49,732 [MainThread  ] [INFO ]  Start period Update with period: 1 s
+2022-01-20 16:49:49,733 [MainThread  ] [INFO ]  Updating Resource Value
+2022-01-20 16:49:50,735 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77135166666667,longitude = 10.3157425,elevation = 76.30501174926758,provider = location_provider_local}
+2022-01-20 16:49:51,737 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77149896666667,longitude = 10.315263,elevation = 76.30454635620117,provider = location_provider_local}
+2022-01-20 16:49:52,739 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77161904999999,longitude = 10.31475911666667,elevation = 76.30404663085938,provider = location_provider_local}
+2022-01-20 16:49:53,740 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77167766666668,longitude = 10.31450383333333,elevation = 76.30380630493164,provider = location_provider_local}
+2022-01-20 16:49:54,743 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77178606666666,longitude = 10.3139963,elevation = 76.30330276489258,provider = location_provider_local}
+2022-01-20 16:49:55,746 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77188525,longitude = 10.31348566666667,elevation = 76.30282592773438,provider = location_provider_local}
+2022-01-20 16:49:56,750 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.7719358,longitude = 10.31323288333333,elevation = 76.30256271362305,provider = location_provider_local}
+2022-01-20 16:49:57,754 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77204188333334,longitude = 10.31273196666667,elevation = 76.30208206176758,provider = location_provider_local}
+2022-01-20 16:49:58,759 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77215011666667,longitude = 10.31222893333333,elevation = 76.30160140991211,provider = location_provider_local}
+2022-01-20 16:49:59,763 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77225815000003,longitude = 10.31172038333333,elevation = 76.30109786987305,provider = location_provider_local}
+2022-01-20 16:50:00,768 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77231043333333,longitude = 10.31146928333333,elevation = 77.30086135864258,provider = location_provider_local}
+2022-01-20 16:50:01,784 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77236441666667,longitude = 10.31121928333333,elevation = 77.30062103271484,provider = location_provider_local}
+2022-01-20 16:50:02,788 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77241496666667,longitude = 10.31097061666667,elevation = 77.30038070678711,provider = location_provider_local}
+2022-01-20 16:50:03,792 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77246425,longitude = 10.31072291666667,elevation = 77.30014038085938,provider = location_provider_local}
+2022-01-20 16:50:04,797 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77256238333333,longitude = 10.31023271666667,elevation = 77.2996597290039,provider = location_provider_local}
+2022-01-20 16:50:05,801 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77267423333334,longitude = 10.30975065,elevation = 78.2991943359375,provider = location_provider_local}
+2022-01-20 16:50:06,804 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77281955,longitude = 10.30928393333333,elevation = 78.2987289428711,provider = location_provider_local}
+2022-01-20 16:50:07,809 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77297631666666,longitude = 10.30882556666667,elevation = 79.29828643798828,provider = location_provider_local}
+2022-01-20 16:50:08,812 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77305463333333,longitude = 10.30859655,elevation = 79.29806137084961,provider = location_provider_local}
+2022-01-20 16:50:09,829 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.773146,longitude = 10.30837808333333,elevation = 79.2978553771973,provider = location_provider_local}
+2022-01-20 16:50:10,832 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77323804999998,longitude = 10.30816078333333,elevation = 79.29765701293945,provider = location_provider_local}
+2022-01-20 16:50:11,837 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77347378333334,longitude = 10.30777436666667,elevation = 79.29726028442383,provider = location_provider_local}
+2022-01-20 16:50:12,841 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77372680000002,longitude = 10.3074101,elevation = 79.29690551757812,provider = location_provider_local}
+2022-01-20 16:50:13,845 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77402471666666,longitude = 10.30709481666667,elevation = 80.29660415649414,provider = location_provider_local}
+2022-01-20 16:50:14,861 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77418048333334,longitude = 10.30693596666667,elevation = 80.29643630981445,provider = location_provider_local}
+2022-01-20 16:50:15,865 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77434206666667,longitude = 10.3067854,elevation = 80.29628372192383,provider = location_provider_local}
+2022-01-20 16:50:16,869 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77467005,longitude = 10.30647898333333,elevation = 80.29598617553711,provider = location_provider_local}
+2022-01-20 16:50:17,873 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77500673333334,longitude = 10.30617643333333,elevation = 80.29568099975586,provider = location_provider_local}
+2022-01-20 16:50:18,877 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77517681666667,longitude = 10.30602915,elevation = 81.29554748535156,provider = location_provider_local}
+2022-01-20 16:50:19,893 [Thread-1    ] [INFO ]  Device: 9903477e-7a08-11ec-a820-5ff5fbc104a7 -> New Value Received GpsLocationDescriptor {latitude = 44.77551625,longitude = 10.30573628333333,elevation = 81.29524612426758,provider = location_provider_local}

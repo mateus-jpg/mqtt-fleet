@@ -1,12 +1,14 @@
 import threading
 import logging
 import time
+from threading import Event
 
 from resources.SmartObjectResource import SmartObjectResource
 import uuid
 import random
 import schedule
 from resources.ResourceDataListener import ResourceDataListener
+
 
 class BatterySensorResource(SmartObjectResource):
     MIN_BATTERY_LEVEL = 50.0
@@ -38,13 +40,13 @@ class BatterySensorResource(SmartObjectResource):
             self.updatedBatteryLevel = self.MIN_BATTERY_LEVEL + random.uniform(0, 1) * (
                     self.MAX_BATTERY_LEVEL - self.MIN_BATTERY_LEVEL)
 
-            #Start Callback for automatic Start
+            # Start Callback for automatic Start
             self.main()
         except Exception as e:
             self.logger.error(f"Error init battery resources {str(e)}")
 
     def periodicEventValueUpdateTask(self):
-        cease_continuous_run = threading.Event()
+        cease_continuous_run: Event = threading.Event()
         self.logger.info("Start period Update with period: {} s".format(self.UPDATE_PERIOD))
 
         class ScheduleThread(threading.Thread):

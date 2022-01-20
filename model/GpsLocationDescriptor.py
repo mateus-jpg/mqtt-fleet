@@ -1,3 +1,4 @@
+import json
 
 
 class GpsLocationDescriptor:
@@ -45,7 +46,22 @@ class GpsLocationDescriptor:
         self._provider = provider
 
     def __str__(self):
-        return f"Longitude: {self.longitude} " \
-               f"Latitude: {self.latitude} " \
-               f"Altitude: {self.altitude} " \
-               f"- provider {self.provider}"
+        string = "GpsLocationDescriptor {" + \
+                 f"latitude = {self.latitude}," \
+                 f"longitude = {self.longitude}," \
+                 f"elevation = {self.altitude}," \
+                 f"provider = {self.provider}" \
+                 "}" \
+
+        return string
+
+    def toJson(self):
+        return json.dumps(self.toDictSerial(), indent=4)
+
+    def toDictSerial(self):
+        jsonDict = dict()
+        jsonDict2 = dict()
+        for i, value in self.__dict__.items():
+            jsonDict[i.lstrip('_')] = value
+        jsonDict2['GpsLocationDescriptor'] = jsonDict
+        return jsonDict2

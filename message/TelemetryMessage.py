@@ -1,7 +1,7 @@
 from message.GenericMessage import GenericMessage
 import time
 import json
-
+from model.JSONUtils import JSONUtils as JU
 
 class TelemetryMessage:
 
