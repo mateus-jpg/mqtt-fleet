@@ -36,7 +36,7 @@ class TelemetryMessage:
 
     def __str__(self):
         return f"Timestamp: {self.timestamp} " \
-               f"Type: {self.type}" \
+               f"Type: {self.type} " \
                f"DataValue: {self.dataValue}"
 
     def writeValueAsString(self):

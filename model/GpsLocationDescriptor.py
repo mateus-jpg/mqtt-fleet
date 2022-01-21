@@ -60,8 +60,6 @@ class GpsLocationDescriptor:
 
     def toDictSerial(self):
         jsonDict = dict()
-        jsonDict2 = dict()
         for i, value in self.__dict__.items():
             jsonDict[i.lstrip('_')] = value
-        jsonDict2['GpsLocationDescriptor'] = jsonDict
-        return jsonDict2
+        return jsonDict

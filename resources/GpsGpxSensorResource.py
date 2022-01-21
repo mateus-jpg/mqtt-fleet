@@ -29,8 +29,8 @@ class GpsGpxSensorResource(SmartObjectResource):
     logger.addHandler(fileHandler)
     logger.addHandler(consoleHandler)
     GPX_FILE_NAME = "/home/mramos/OneDrive/PROGETTI RANDOM/mqtt/tracks/track.gpx"
-    UPDATE_PERIOD = 1
-    WAIT_UPDATE_PERIOD = 1
+    UPDATE_PERIOD = 5
+    WAIT_UPDATE_PERIOD = 5
 
     def loadUpdatedValue(self):
         return self.updatedGpsLocationDescriptor

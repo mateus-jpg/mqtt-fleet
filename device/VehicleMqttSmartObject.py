@@ -46,13 +46,12 @@ class VehicleMqttSmartObject:
             self.logger.error(f"Error Registering to Resources | msg{str(e)}")
 
     def _onDataChangedBattery(self, resource: SmartObjectResource, updatedValue):
-        uploadedValue = {"Value": f"{updatedValue:.2f}"}
         try:
             self.publishTelemetryData(f"{self.BASIC_TOPIC}/"
                                       f"{self.vehicleId}/"
                                       f"{self.TELEMETRY_TOPIC}/"
                                       f"{resource.deviceType.split(':')[-1]}",
-                                      TelemetryMessage(resource.deviceType, uploadedValue))
+                                      TelemetryMessage(resource.deviceType, f"{updatedValue:.2f}"))
         except Exception as e:
             self.logger.error(f"Error CallBack _onDataChangedBattery | Msg: {str(e)}")
 

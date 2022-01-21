@@ -43,6 +43,7 @@ class GenericMessage(ABC):
         return json.dumps(self.dict_serialize())
 
     def dict_serialize(self):
+
         return (dict(
             (i.replace(self.__class__.__name__, '').lstrip("_"), value)
             for i, value in self.__dict__.items()
