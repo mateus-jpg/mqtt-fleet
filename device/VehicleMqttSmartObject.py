@@ -6,7 +6,7 @@ from resources.ResourceDataListener import ResourceDataListener
 from resources.SmartObjectResource import SmartObjectResource
 from message.TelemetryMessage import TelemetryMessage
 
-import paho.mqtt.client as mqtt
+
 
 
 class VehicleMqttSmartObject:
@@ -20,7 +20,7 @@ class VehicleMqttSmartObject:
     fileHandler.setFormatter(logFormatter)
     logger.addHandler(fileHandler)
     logger.addHandler(consoleHandler)
-
+    QoS = 1
     TELEMETRY_TOPIC = "telemetry"
     EVENT_TOPIC = "event"
     CONTROL_TOPIC = "control"
@@ -90,7 +90,8 @@ class VehicleMqttSmartObject:
         if self.mqttClient is not None and telemetryMessage is not None and topic is not None:
             try:
                 messagePayload = str.encode(telemetryMessage.writeValueAsString())
-                self.mqttClient.publish(topic, messagePayload)
+                self.mqttClient.publish(topic, messagePayload, self.QoS)
+                self.logger.info(f"Message correctly published")
             except Exception as e:
                 print(f"{str(e)}")
         else:

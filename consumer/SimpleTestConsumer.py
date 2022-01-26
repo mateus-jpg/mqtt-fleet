@@ -1,9 +1,15 @@
 import logging
 import uuid
-import paho.mqtt.client as mqtt
+import time
+
+from AWSIoTPythonSDK.MQTTLib import AWSIoTMQTTClient as mqtt
+import json
 
 
 class SimpleTestConsumer:
+    with open('json_data.json') as json_file:
+        config = json.load(json_file)
+
     logFormatter = logging.Formatter("%(asctime)s [%(threadName)-12.12s] [%(levelname)-5.5s]  %(message)s")
     logger = logging.getLogger("SIMPLE-TEST-CONSUMER")
     logger.setLevel(logging.DEBUG)
@@ -25,11 +31,17 @@ class SimpleTestConsumer:
         self.logger.info("MQTT Consumer Test Started")
         try:
             self.clientId = str(uuid.uuid1())
-            self.client = mqtt.Client(client_id=self.clientId, clean_session=True)
-            self.client.on_message = self.on_message
-            self.client.connect(host=self.BROKER_ADDRESS, port=self.BROKER_PORT)
-            self.client.subscribe(topic=self.TARGET_TOPIC)
-            self.client.on_message = self.on_message
-            self.client.loop_forever()
+            self.client = mqtt(self.clientId)
+            self.client.configureEndpoint(self.config['host'], int(self.config['port']))
+            self.client.configureCredentials(self.config['RootCA'],
+                                             self.config['PrivateKey'],
+                                             self.config['Certificate'])
+            self.client.configureAutoReconnectBackoffTime(1, 32, 20)
+            self.client.configureOfflinePublishQueueing(-1)
+            self.client.configureDrainingFrequency(2)
+            self.client.configureConnectDisconnectTimeout(10)
+            self.client.configureMQTTOperationTimeout(5)
+            self.client.connect()
+            self.client.subscribe(self.TARGET_TOPIC, 0, self.on_message)
         except Exception as e:
             self.logger.error(f"Error Starting MQTT Simple Consumer | Msg: {str(e)}")

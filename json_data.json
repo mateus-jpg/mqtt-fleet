@@ -1,0 +1,5 @@
+{"RootCA": "/home/mramos/Documents/certificati/awsCert/root-CA.crt",
+  "PrivateKey": "/home/mramos/Documents/certificati/awsCert/fleet-vehicle.private.key",
+  "Certificate": "/home/mramos/Documents/certificati/awsCert/fleet-vehicle.cert.pem",
+  "host": "avf6pqezt597s-ats.iot.eu-west-3.amazonaws.com",
+  "port": "1883"}
